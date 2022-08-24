@@ -105,7 +105,7 @@ public class Jour3 {
 
 
     public static void main(String[] args) throws IOException {
-        Scanner s = new Scanner(new File("../Jeu de caractère/nombreJour3.txt"));
+        Scanner s = new Scanner(new File("./Jeu de caractère/nombreJour3.txt"));
     
 
     while (s.hasNext()){
